@@ -4,7 +4,7 @@
 - scAI provides an intuitive way to visualize features (i.e., genes and loci) alongside the cells in two dimensions.
 - scAI aggegrates chromatin profiles of similar cells in an unsupervised and iterative manner, which opens up new avenues for analyzing extremely sparse, binary scATAC-seq data.
 
-Check out our paper for a more complete description of the methods and analyses [(S. Jin, L. Zhang and Q. Nie, Genome Biology, 2020)] (https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1932-8).
+Check out our paper for a more complete description of the methods and analyses [S. Jin, L. Zhang and Q. Nie, Genome Biology, 2020](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1932-8)
 
 ## Packages
 scAI is implemented in both Matlab and R languages (The R package is available [here](https://github.com/sqjin/scAI)). 
