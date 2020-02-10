@@ -2,7 +2,9 @@
 - scAI is an unsupervised approach for integrative analysis of gene expression and chromatin accessibility or DNA methylation proflies measured in the same individual cells.
 - scAI infers a set of biologically relevant factors, which enable various downstream analyses, including the identification of cell clusters, cluster-specific markers and regulaory relationships. 
 - scAI provides an intuitive way to visualize features (i.e., genes and loci) alongside the cells in two dimensions.
-- scAI aggegrates chromatin profiles of similar cells in an unsupervised and iterative manner, which opens up new avenues for analyzing extremely sparse, binary scATAC-seq data. 
+- scAI aggegrates chromatin profiles of similar cells in an unsupervised and iterative manner, which opens up new avenues for analyzing extremely sparse, binary scATAC-seq data.
+
+Check out our paper for a more complete description of the methods and analyses (https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1932-8).
 
 ## Packages
 scAI is implemented in both Matlab and R languages (The R package is available [here](https://github.com/sqjin/scAI)). 
